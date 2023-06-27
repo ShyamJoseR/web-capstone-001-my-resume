@@ -1,0 +1,18 @@
+/* Awards Images */
+img[class='award_thumbnail']{
+    height: 250px;
+}
+
+img[class='fiserv_award_thumbnail']{
+    width: 400px;
+}
+
+img[class='most_important_award_thumbnail']{
+    width: 400px;
+}
+
+
+
+*{
+    background-color: turquoise;
+}
