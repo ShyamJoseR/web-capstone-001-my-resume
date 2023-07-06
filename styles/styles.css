@@ -1,6 +1,34 @@
+html{
+    background-color: #AAC8A7;
+    color: #22A699;
+}
+
+h1{
+    color: #1F6E8C !important;
+}
+
+h2{
+    color:#2E8A99 !important;
+}
+
+footer{
+    background-color: #0E2954;
+    text-align: center;
+}
+
+/* 
+Responsiveness
+Mobile Devices: 319px — 480px
+iPads and Tablets: 481px — 1200px
+Laptops: 1201px — 1600px
+Desktops: 1601px and more
+*/
+
+
+
 /* Awards Images */
 img[class='award_thumbnail']{
-    height: 250px;
+    width: 400px;
 }
 
 img[class='fiserv_award_thumbnail']{
@@ -9,10 +37,4 @@ img[class='fiserv_award_thumbnail']{
 
 img[class='most_important_award_thumbnail']{
     width: 400px;
-}
-
-
-
-*{
-    background-color: turquoise;
 }
