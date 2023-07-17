@@ -16,6 +16,18 @@ footer{
     text-align: center;
 }
 
+.skills-container{
+    display: flex;
+}
+
+.individual-skill{
+    display: flex;
+}
+
+.skill-metric{
+    font-size: 1rem;
+}
+
 /* 
 Responsiveness
 Mobile Devices: 319px — 480px
